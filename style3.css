@@ -68,7 +68,7 @@ font-size: 70px;
     }
     
     .image {
-    font-family: 'Party Business', sans-serif;
+    font-family: 'PB', sans-serif;
     border: 8px solid black;
     box-sizing: border-box;
     background-color: #000;
@@ -143,14 +143,14 @@ font-size: 70px;
     
     .orange1 {
     
-    font-family: "AN", sans-serif;
+    font-family: 'AN', sans-serif;
     font-weight: 100;
     color: #FF530D;
     }
     
     .description {
         color: white;
-        font-family: 'Party Business', sans-serif;
+        font-family: 'PB', sans-serif;
         font-size: 25px;
     }
 /*Others */
